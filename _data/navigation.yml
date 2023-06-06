@@ -11,12 +11,17 @@ main:
     
   - title: "Projects"
     url: /projects/
+
+  - title: "About Me"
+    url: /about/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "About Me"
-    url: /about/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+
