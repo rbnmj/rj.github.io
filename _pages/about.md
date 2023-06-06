@@ -12,7 +12,7 @@ After finishing my bachelors in biology at Bielefeld University, I decided to pu
 For my masters thesis, I am working on food chain modelling with differential equations and focussing on coexistence and pattern-formation.  
 <br>
 
-I am currently a student assistant with the **Theoretical Ecology** working group at FU Berlin, where I am assisting with the maintenance of an agent based model for mangrove-groundwater feedback that is based on Python [(pyMANGA)](https://pymanga.netlify.app/). Prior to that, I had the opportunity to help with *Drosophila* experiments on insect defence at FU Berlin and also worked with the IT department at Bielefeld University.   
+I am currently a student assistant at the **Theoretical Ecology** working group at FU Berlin, where I am assisting with the maintenance of an agent based model for mangrove-groundwater feedback that is based on Python [(pyMANGA)](https://pymanga.netlify.app/). Prior to that, I had the opportunity to help with *Drosophila* experiments on insect defence at FU Berlin and also worked with the IT department at Bielefeld University.   
 <br>
 
 During internships at ORCHIS Umweltplanung and lower nature conservation authority Potsdam-Mittelmark, I gained some hands on experience in nature conservation and environmental planning.  
