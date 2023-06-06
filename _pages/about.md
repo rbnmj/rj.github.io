@@ -18,5 +18,7 @@ During internships at ORCHIS Umweltplanung and lower nature conservation authori
 
 ## Skills 
 
-Python $\cdot$ R $\cdot$ NetLogo $\cdot$ Object-Oriented Programming $\cdot$ Git $\cdot$ Markdown $\cdot$ Microsoft Office $\cdot$ HTML/CSS $\cdot$ Markdown  
-Mathematical Models $\cdot$ Individual Based Models $\cdot$ Species Distribution Models $\cdot$ Bayesian Statistics $\cdot$ Data Analytics  
+Mathematical Modelling $\cdot$ Individual Based Modelling $\cdot$ Species Distribution Modelling  
+Bayesian Statistics $\cdot$ Data Analytics   
+<br>
+`Python` $\cdot$ `R` $\cdot$ `NetLogo` $\cdot$ `Object-Oriented Programming` $\cdot$ `Git` $\cdot$ `Markdown` $\cdot$ `Microsoft Office` $\cdot$ `HTML/CSS` $\cdot$ `Markdown`  
