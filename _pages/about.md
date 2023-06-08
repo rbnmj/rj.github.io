@@ -20,7 +20,7 @@ During internships at ORCHIS Umweltplanung and lower nature conservation authori
 
 ## Skills 
 
-Mathematical Modelling $\cdot$ Individual Based Modelling $\cdot$ Species Distribution Modelling  
+Mathematical Modelling $\cdot$ Individual Based Modelling $\cdot$ Ecological Modelling
 Bayesian Statistics $\cdot$ Data Analytics   
 <br>
 `Python` `R` `NetLogo` `Object-Oriented Programming` `Git` `Markdown` `Microsoft Office` `HTML/CSS` `Markdown`  
