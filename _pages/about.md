@@ -22,5 +22,6 @@ During internships at ORCHIS Umweltplanung and lower nature conservation authori
 
 Mathematical Modelling $\cdot$ Individual Based Modelling $\cdot$ Ecological Modelling  
 Bayesian Statistics $\cdot$ Data Analytics   
+I am also familiar with practical nature conservation and conservation genetics.     
 <br>
 `Python` `R` `NetLogo` `Object-Oriented Programming` `Git` `Markdown` `Microsoft Office` `HTML/CSS` `Markdown`  
