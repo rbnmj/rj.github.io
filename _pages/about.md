@@ -24,4 +24,4 @@ Mathematical Modelling $\cdot$ Individual Based Modelling $\cdot$ Ecological Mod
 Bayesian Statistics $\cdot$ Data Analytics   
 I am also familiar with practical nature conservation and conservation genetics.     
 <br>
-`Python` `R` `NetLogo` `Object-Oriented Programming` `Git` `Markdown` `Microsoft Office` `HTML/CSS` `Markdown`  
+`Python` `R` `HTML/CSS` `LaTeX` `Microsoft Office` `NetLogo` `Object-Oriented Programming` `Git` `Markdown` 
