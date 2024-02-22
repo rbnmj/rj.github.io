@@ -16,4 +16,4 @@ Dispersal is an important factor in shaping population structure and competition
 
 <br>
 <img src='/images/MA1.png'>  
-**Fig. 1** **a)** Visualisazion of the used chemostat-like model containing **n**utrients,**a**utotrophs, and two **h**eterotroph species that compete for the same resource. Colored arrows indicate dispersal pathways between both patches. **b)** Conceptual example for the emergence of different types of self-organised pattern formation due to the spatio-temporal dispersal of heterotrophs.
+**Fig. 1** **a)** Visualisazion of the used chemostat-like model containing **n**utrients, **a**utotrophs, and two **h**eterotroph species that compete for the same resource. Colored arrows indicate dispersal pathways between both patches. **b)** Conceptual example for the emergence of different types of self-organised pattern formation due to the spatio-temporal dispersal of heterotrophs.
