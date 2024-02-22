@@ -8,20 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">
 After finishing my bachelors in biology at Bielefeld University, I decided to pursue a masters degree with a focus on ecology and modelling. At University of Potsdam, I found the perfect fit in the masters program **Ecology, Evolution, and Conservation** and am currently working on my masters thesis at the working group for [Ecology and Ecosystem Modelling](https://www.uni-potsdam.de/en/ibb-ecology/overview).  
 For my masters thesis, I work on food chain modelling with differential equations and focus on coexistence through dispersal and [pattern-formation](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13880).  
-</div>
 <br>
 
-<div style="text-align: justify">
 I am currently a student assistant at the **Theoretical Ecology** working group at FU Berlin, where I assist with the maintenance of an agent based model for mangrove-groundwater feedback that is based on Python [(pyMANGA)](https://pymanga.netlify.app/). Prior to that, I had the opportunity to help with *Drosophila* experiments on insect defence at FU Berlin and also worked with the IT department at Bielefeld University.   
-</div>
 <br>
 
-<div style="text-align: justify">
 During internships at ORCHIS Umweltplanung and lower nature conservation authority Potsdam-Mittelmark, I gained hands on experience in nature conservation and environmental planning. However, this website is dedicated to showcase my skillset in (ecological) modelling and data analysis.  
-</div>
 <br>
 
 ## Skills 

@@ -6,9 +6,7 @@ collection: projects
 
 ## Dispersal-mediated coexistence in metacommunities with self-organised pattern formation
 
-<div style="text-align: justify">
 I conducted my M. Sc. thesis at Potsdam University with the working group *Ecology and Ecosystem Modelling* for the masters program *Ecology, Evolution, and Conservation*. My reasearch was supervised by [Christian Guill](https://www.uni-potsdam.de/de/ibb-ecology/mitarbeiterinnen/dr-christian-guill-1) and focused on the role of dispersal in metacommunities with self-organised pattern formation. The tri-trophic food web model is based on differential equations and implemented in Python. I used a variety of mathematical and ecological tools to analyse the model.  
-</div>
 
 ### Abstract
 
@@ -18,6 +16,4 @@ Dispersal is an important factor in shaping population structure and competition
 
 <br>
 <img src='/images/MA1.png'>  
-<div style="text-align: justify">
 **Fig. 1** **a)** Visualisazion of the used chemostat-like model containing **n**utrients,**a**utotrophs, and two **h**eterotroph species that compete for the same resource. Colored arrows indicate dispersal pathways between both patches. **b)** Conceptual example for the emergence of different types of self-organised pattern formation due to the spatio-temporal dispersal of heterotrophs.
-</div>
