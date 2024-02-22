@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
 After finishing my bachelors in biology at Bielefeld University, I decided to pursue a masters degree with a focus on ecology and modelling. At University of Potsdam, I found the perfect fit in the masters program **Ecology, Evolution, and Conservation** and am currently working on my masters thesis at the working group for [Ecology and Ecosystem Modelling](https://www.uni-potsdam.de/en/ibb-ecology/overview).  
 For my masters thesis, I work on food chain modelling with differential equations and focus on coexistence through dispersal and [pattern-formation](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13880).  
 <br>
@@ -25,3 +26,5 @@ Bayesian Statistics $\cdot$ Data Analytics
 I am also familiar with practical nature conservation and conservation genetics.     
 <br>
 `Python` `R` `NetLogo` `Object-Oriented Programming` `Git` `Markdown` `Microsoft Office` `HTML/CSS` `Markdown`  
+
+</div>
