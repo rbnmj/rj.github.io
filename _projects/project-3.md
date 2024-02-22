@@ -43,4 +43,3 @@ The main workload come with transferring the model to our research area and spec
         <i><br><strong>Figure 3:</strong> Partial results from the occupancy modelling. This figure show the predicted brown bear occupancy probability after 100 years in romania for one of the implemented scenarios.</i>
     </figcaption>
 </figure>
-</div>
