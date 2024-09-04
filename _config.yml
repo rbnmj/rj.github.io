@@ -83,7 +83,7 @@ author:
   name             : "Ruben M Jardner"
   avatar           : "profile.png"
   bio              : "Landscape Ecologist"
-  employer         : 
+  employer         : #
   location         : "Berlin"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
